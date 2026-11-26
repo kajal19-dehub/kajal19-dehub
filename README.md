@@ -12,10 +12,10 @@
 <a href="https://github.com/kajal19-dehub">
 <img src="https://img.shields.io/badge/GitHub-kajal19--dehub-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/kajaldwivedi19/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kajaldwivedi10f30271.17@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -107,7 +107,7 @@ A smart waste management platform designed to make waste collection more organiz
 
 **Tech Stack:** React.js · Node.js · JavaScript · APIs · JWT · Database
 
-[🔗 View Project Repository](YOUR_WASTEZERO_REPOSITORY_URL)
+[🔗 View Project Repository](https://github.com/kajal19-dehub/EcoLoop-DevOps)
 
 ---
 
@@ -123,24 +123,7 @@ An interactive AI-powered web application that generates images from text prompt
 
 **Tech Stack:** JavaScript · HTML · CSS · React.js · AI API
 
-[🔗 View Project Repository](YOUR_AI_IMAGE_GENERATOR_REPOSITORY_URL)
-
----
-
-### 🏆 3. Hackathon Project Submission & Jury Evaluation Leaderboard
-
-A responsive application designed to manage hackathon submissions and jury evaluation.
-
-**Key Features**
-- Project submission gallery.
-- Team and project information.
-- Jury evaluation sliders.
-- Weighted score calculation.
-- Automated leaderboard.
-
-**Tech Stack:** HTML · CSS · JavaScript
-
-[🔗 View Project Repository](YOUR_HACKATHON_REPOSITORY_URL)
+[🔗 View Project Repository](https://github.com/kajal19-dehub/AI-Image-Generator)
 
 ---
 
